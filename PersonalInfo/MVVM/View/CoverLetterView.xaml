@@ -71,10 +71,14 @@ an interview.
                     </Grid.RowDefinitions>
 
                     <Image                    
-                     Grid.Row="0"                         
+                     Grid.Row="0" 
+                        
                      HorizontalAlignment="Center"
-                     Source="/Images/MyPhoto.jpeg"
-                        />
+                     Source="/Images/MyPhoto.jpeg">
+                        <Image.Style>
+                            <Style/>
+                        </Image.Style>
+                    </Image>
                     <TextBlock
                         Grid.Row="1"
                         Foreground="White"
