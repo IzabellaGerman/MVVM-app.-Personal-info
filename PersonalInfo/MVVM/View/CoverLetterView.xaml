@@ -5,7 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:PersonalInfo.MVVM.View"
              mc:Ignorable="d" 
-             d:DesignHeight="600" d:DesignWidth="700"
+             d:DesignHeight="580" d:DesignWidth="700"
              Background="#272537">
     <Grid>
         <StackPanel Orientation="Horizontal">
@@ -34,50 +34,83 @@ learning and mastering C#, which has opened up new doors for my &#x0a;
 career and deepened my passion for software development. I am &#x0a; 
 confident that my technical expertise, coupled with my ability to &#x0a; 
 quickly adapt to new programming languages and environments.&#x0a; 
-    As a professional who has already transitioned into a new language &#x0a; 
-and domain, I understand the challenges and rewards of switching  &#x0a; 
+    I understand the challenges and rewards of switching  &#x0a; 
 careers. I am eager to bring my problem-solving skills, analytical &#x0a; 
 thinking, and dedication to a new field where I can continue to grow &#x0a; 
 and contribute to a team-oriented environment.&#x0a; 
     I am confident that my background, combined with my enthusiasm &#x0a; 
 for growth and continuous learning, will make me a valuable asset &#x0a; 
 to your team.&#x0a; 
-    Thank you for considering my application. I look forward to the &#x0a; 
-opportunity to contribute to your team and help achieve its goals.&#x0a; 
-Please feel free to contact me at phone or via email to arrange &#x0a; 
+    Thank you for considering my application. 
+Please feel free to &#x0a; contact me at phone or via email to arrange
 an interview.
 "
                                  Foreground="White"
                                  FontSize="14"                             
-                                 HorizontalAlignment="Left"                                
+                                 HorizontalAlignment="Center"                                
                                  FontFamily="/Fonts/#Poppins" 
-                                 Width="500"
-                                 Height="580"/>
+                                 Width="500" Margin="0,0,0,22"/>
                 </Grid>
 
             </Border>
 
-    
+
             <Border 
              Width="180"
-             Height="220"
+             Height="550"
              CornerRadius="10"
              HorizontalAlignment="Right"
              VerticalAlignment="Top"
              Margin="5,10,0,15">
 
-               <Grid>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="200"/>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
                     <Image                    
-                     Width="160"                            
+                     Grid.Row="0"                         
                      HorizontalAlignment="Center"
-                      Source="/Images/MyPhoto.jpeg"
+                     Source="/Images/MyPhoto.jpeg"
                         />
+                    <TextBlock
+                        Grid.Row="1"
+                        Foreground="White"
+                        FontSize="18"
+                        HorizontalAlignment="Center"
+                        Margin="0,5,0,0"
+                        Text="Skills &#x0a;"
+                         FontFamily="/Fonts/#Poppins">
+
+                    </TextBlock>
+                    <TextBlock
+                        Grid.Row="2"
+                        Foreground="White"
+                         FontFamily="/Fonts/#Poppins"
+                        FontSize="14"
+                        Text="
+    C# language &#x0a;
+    .NET platform &#x0a;
+    Design patterns &#x0a;
+    SOLID &#x0a;
+    Data structures &#x0a;
+    MS SQL &#x0a;
+    Git, repositories &#x0a;
+    English lang., C1 level &#x0a;
+    Czech lang., B2 level &#x0a;
+">
+
+                    </TextBlock>
                 </Grid>
-
+               
             </Border>
-
+            
+               
+           
         </StackPanel>
 
-      
+
     </Grid>
 </UserControl>
