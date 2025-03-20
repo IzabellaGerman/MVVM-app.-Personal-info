@@ -7,7 +7,7 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <StackPanel>
-        <TextBlock Text="Click to view projects on GitHub"
+        <TextBlock Text=" [Unprepared yet] Click to view projects on GitHub"
                    Foreground="White"
                    FontSize="28"
                    HorizontalAlignment="Left"
