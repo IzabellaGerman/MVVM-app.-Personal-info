@@ -12,7 +12,7 @@
 
             <Border 
              Width="500"
-             Height="400"
+             Height="580"
              HorizontalAlignment="Stretch"
              VerticalAlignment="Top"
              Background="#272537"
@@ -20,12 +20,39 @@
              Margin="10,10,0,0">
 
                 <Grid>
-                    <TextBlock   Text="   My name is Izabella German.&#x0a;   I graduated from the State  Academy of Petrozavodsk, Russia. I studied at the&#x0a; Faculty of Physics and Mathematics majoring in theoretical physics with an additional&#x0a; specialization in computer science. I completed  courses of counting and I worked &#x0a; for several years as a developer of an accounting and management accounting&#x0a; system."
+                    <TextBlock   Text="   My name is Izabella German.&#x0a;
+    I graduated from the State  Academy of Petrozavodsk, Russia.&#x0a;
+I studied at the Faculty of Physics and Mathematics majoring in &#x0a;
+theoretical physics with an additional specialization in computer &#x0a;
+science. I completed  courses of counting and I worked for several &#x0a;
+years as a developer of an accounting and management accounting &#x0a; 
+    Throughout my professional journey, I have had the &#x0a; 
+opportunity to develop software using the Basic programming &#x0a; 
+language, which has provided me with a solid understanding of &#x0a; 
+programming fundamentals. More recently, I have transitioned into &#x0a; 
+learning and mastering C#, which has opened up new doors for my &#x0a; 
+career and deepened my passion for software development. I am &#x0a; 
+confident that my technical expertise, coupled with my ability to &#x0a; 
+quickly adapt to new programming languages and environments.&#x0a; 
+    As a professional who has already transitioned into a new language &#x0a; 
+and domain, I understand the challenges and rewards of switching  &#x0a; 
+careers. I am eager to bring my problem-solving skills, analytical &#x0a; 
+thinking, and dedication to a new field where I can continue to grow &#x0a; 
+and contribute to a team-oriented environment.&#x0a; 
+    I am confident that my background, combined with my enthusiasm &#x0a; 
+for growth and continuous learning, will make me a valuable asset &#x0a; 
+to your team.&#x0a; 
+    Thank you for considering my application. I look forward to the &#x0a; 
+opportunity to contribute to your team and help achieve its goals.&#x0a; 
+Please feel free to contact me at phone or via email to arrange &#x0a; 
+an interview.
+"
                                  Foreground="White"
                                  FontSize="14"                             
                                  HorizontalAlignment="Left"                                
                                  FontFamily="/Fonts/#Poppins" 
-                                 Width="500"/>
+                                 Width="500"
+                                 Height="580"/>
                 </Grid>
 
             </Border>
