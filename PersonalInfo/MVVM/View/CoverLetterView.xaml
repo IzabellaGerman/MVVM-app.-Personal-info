@@ -5,19 +5,19 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:PersonalInfo.MVVM.View"
              mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="700"
+             d:DesignHeight="600" d:DesignWidth="700"
              Background="#272537">
     <Grid>
         <StackPanel Orientation="Horizontal">
 
             <Border 
-             Width="450"
+             Width="500"
              Height="400"
              HorizontalAlignment="Stretch"
              VerticalAlignment="Top"
              Background="#272537"
              CornerRadius="10"
-             Margin="10,20,0,0">
+             Margin="10,10,0,0">
 
                 <Grid>
                     <TextBlock   Text="   My name is Izabella German.&#x0a;   I graduated from the State  Academy of Petrozavodsk, Russia. I studied at the&#x0a; Faculty of Physics and Mathematics majoring in theoretical physics with an additional&#x0a; specialization in computer science. I completed  courses of counting and I worked &#x0a; for several years as a developer of an accounting and management accounting&#x0a; system."
@@ -25,32 +25,25 @@
                                  FontSize="14"                             
                                  HorizontalAlignment="Left"                                
                                  FontFamily="/Fonts/#Poppins" 
-                                 Width="450"/>
+                                 Width="500"/>
                 </Grid>
 
             </Border>
 
     
             <Border 
-             Width="200"
+             Width="180"
              Height="220"
              CornerRadius="10"
              HorizontalAlignment="Right"
              VerticalAlignment="Top"
-             Margin="20,20,0,15">
+             Margin="5,10,0,15">
 
-                <!--<Border.Background>
-                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
-                        <GradientStop Color="#FFECECEC" Offset="0.0"/>
-                        <GradientStop Color="#FF9C9C9C" Offset="1"/>
-                    </LinearGradientBrush>
-                </Border.Background>-->
-
-                <Grid>
+               <Grid>
                     <Image                    
                      Width="160"                            
                      HorizontalAlignment="Center"
-                      Source="/Images/Photo.jpg"
+                      Source="/Images/MyPhoto.jpeg"
                         />
                 </Grid>
 
