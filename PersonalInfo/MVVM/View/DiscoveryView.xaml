@@ -5,43 +5,47 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:PersonalInfo.MVVM.View"
              mc:Ignorable="d" 
-             d:DesignHeight="550" d:DesignWidth="700"
+             d:DesignHeight="780" d:DesignWidth="800"
              Background="#272537">
     <Grid>
 
         <StackPanel Orientation="Horizontal">
-            <Border Width="680"
-                    Height="570"
-                    Margin="10,0,0,0"
+            <Border Width="740"
+                    Height="780"
+                    Margin="10,5,0,0"
                     VerticalAlignment="Top"
                     Background="#272537"
                     CornerRadius="10">
 
                 <Grid>
-                    <TextBlock  Text="Junior C# Developer &#x0a;
-       Summary &#x0a;
-I have been working in IT for over 10 years. I developed programs in the Basic language. At the&#x0a;
- moment I am a switcher, whitch means that I have mastered C# and want to change my field &#x0a;
-of work.&#x0a;
-       Experience &#x0a;
-    Exp. developer: OOO “GasProm – Neft”, 2015 - 2021 &#x0a;
-Main programming language: Basic + T-SQL &#x0a;
-In 2015, I got a job at big corporation “Gazpromneft” in software developing department. &#x0a;
-My job responsibilities included developing management reports, creating complex database &#x0a;
-queries, and developing reports of financial viability and estimating of economical effectiveness &#x0a;
-    Developer: OOO “MetalloProduction”, 2014 – 2015 &#x0a;
-Main programming language: Basic + T-SQL &#x0a;
-Working for this company I gained experience in developing software for manufacturing &#x0a;
-automation and calculating the cost of goods and developing complex reports. &#x0a;
-    Junior developer: OOO “NeoSystems”, 2011 – 2014 &#x0a;
-Main programming language: Basic + T-SQL &#x0a;
-I got a job at a small company as a junior developer. After working there for 3 years and gaining &#x0a;
-experience, I moved to  larger company.&#x0a;
-        Education &#x0a;
-Petrozavodsk State University (Academy), 2006-2011 &#x0a;
-Degree in phisics, additional specialization in programming.&#x0a;
-Programming course included such languages as Basic, JavaScript, C++, PHP/HTML, Prolog,&#x0a;
-Visual Basic, MS SQL
+                    <TextBlock  Text="Junior C# Developer    📧 izzigerman@gmail.com | 📞 +420 778 117 442&#x0a;
+Core skills:&#x0a;   •	C# / .NET Development                   •	MS SQL / T-SQL &#x0a;   •	Multithreading, Design Patterns  
+ •	Git / Version Control &#x0a;   •	SOLID Principles                                 •	Languages: English (C1), Czech (B2)&#x0a;   •	Data Structures / Algorithms&#x0a; &#x0a;
+Summary &#x0a;
+    Results-driven software developer with over 6 years of experience in application development, database &#x0a;
+ management, and process automation. Skilled in C#, .NET, and SQL with a strong foundation in software &#x0a;
+ design principles (SOLID, design patterns, multithreading). I started my career in enterprise environments,&#x0a;
+ building financial and manufacturing automation solutions,and I am now focused on advancing as &#x0a;
+ a C#/.NET developer. With strong analytical skills, international language proficiency (English C1, &#x0a;
+ Czech B2), and hands-on development experience, I bring both technical expertise and adaptability to&#x0a;
+ new challenges.&#x0a;
+Experience &#x0a;
+ Software Developer | Gazprom Neft | 2015 – 2018
+&#x0a;
+    •	Developed management and financial viability reports for enterprise operations &#x0a;
+    •	Designed and optimized complex SQL queries for large datasets &#x0a;
+    •	Supported decision-making processes by building tools to estimate economic effectiveness &#x0a;
+    •	Strengthened expertise in enterprise-level software development and reporting systems.&#x0a;  Software Developer | Metall-Production | 2014 – 2015 &#x0a;
+    •	Built software for manufacturing process automation and product cost calculation &#x0a;
+    •	Developed and maintained reporting systems for production data analysis&#x0a;
+    •	Collaborated with business users to implement tools that improved operational efficiency &#x0a;
+ Junior Developer  | NeoSystems | 2012 – 2014 &#x0a;
+    •	Started career in a small IT-company working on software solutions using Visual Basic and MS SQL &#x0a;
+    •	Gained hands-on experience in software development lifecycle, database management, and client support.&#x0a;
+    •	After 2 years of growth, transitioned to larger-scale enterprise projects   &#x0a;&#x0a; Education &#x0a;
+Petrozavodsk State University | 2006 – 2011 &#x0a;
+    •	Degree in Physics with additional specialization in Programming&#x0a;
+    •	Coursework included: Basic, C++, PHP/HTML, JavaScript, Prolog, Visual Basic, MS SQL, Pascal.
 "
                  Foreground="White"
                  FontSize="14"

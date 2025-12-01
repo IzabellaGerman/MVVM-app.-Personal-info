@@ -6,7 +6,7 @@
          xmlns:ViewModel="clr-namespace:PersonalInfo.MVVM.ViewModel"
         xmlns:local="clr-namespace:PersonalInfo"
         mc:Ignorable="d"
-        Height="600" Width="920"
+        Height="840" Width="1020"
         WindowStyle="None"
         ResizeMode="NoResize"
         Background="Transparent"

@@ -5,14 +5,14 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:PersonalInfo.MVVM.View"
              mc:Ignorable="d" 
-             d:DesignHeight="580" d:DesignWidth="700"
+             d:DesignHeight="780" d:DesignWidth="800"
              Background="#272537">
     <Grid>
         <StackPanel Orientation="Horizontal">
 
             <Border 
              Width="500"
-             Height="580"
+             Height="780"
              HorizontalAlignment="Stretch"
              VerticalAlignment="Top"
              Background="#272537"
@@ -95,15 +95,15 @@ an interview.
                          FontFamily="/Fonts/#Poppins"
                         FontSize="14"
                         Text="
-    C# language &#x0a;
-    .NET platform &#x0a;
-    Design patterns &#x0a;
-    SOLID &#x0a;
-    Data structures &#x0a;
-    MS SQL &#x0a;
-    Git, repositories &#x0a;
-    English lang., C1 level &#x0a;
-    Czech lang., B2 level &#x0a;
+  C# language &#x0a;
+  .NET platform &#x0a;
+  Design patterns &#x0a;
+  SOLID &#x0a;
+  Data structures &#x0a;
+  MS SQL &#x0a;
+  Git, repositories &#x0a;
+  English lang., C1 level &#x0a;
+  Czech lang., B2 level &#x0a;&#x0a;📧 izzigerman@gmail.com &#x0a;📞 +420 778 117 442 
 ">
 
                     </TextBlock>

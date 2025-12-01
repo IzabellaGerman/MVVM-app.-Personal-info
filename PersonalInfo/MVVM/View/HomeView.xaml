@@ -15,7 +15,7 @@
                    FontFamily="/Fonts/#Poppins"/>
 
         <StackPanel Orientation="Horizontal">
-            <Border Width="400"
+            <Border Width="500"
                     Height="200">
 
                 <Border.Background>
@@ -28,7 +28,7 @@
                 <Border.Clip>
                     <RectangleGeometry RadiusX="10"
                                        RadiusY="10"
-                                       Rect="0,0,400,200"/>
+                                       Rect="0,0,500,200"/>
                 </Border.Clip>
 
                 <Grid>
@@ -56,7 +56,7 @@
             <Border Width="200"
                     Height="200"
                     CornerRadius="10"
-                    Margin="45,0,0,0">
+                    Margin="50,0,0,0">
 
                 <Border.Background>
                     <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
@@ -83,7 +83,7 @@
                    Margin="0,0,0,10"/>
 
             <StackPanel Orientation="Horizontal">
-                <Border Width="150"
+                <Border Width="180"
                         Height="150"
                         Background="#844eff"
                         CornerRadius="10">
@@ -96,9 +96,9 @@
                     </Grid>
                     
                 </Border>
-                <Border Width="450"
+                <Border Width="490"
                         Height="150"
-                        Margin="45,0,0,0"
+                        Margin="80,0,0,0"
                         CornerRadius="10">
 
                     <Border.Background>
