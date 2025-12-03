@@ -71,18 +71,34 @@
                      HorizontalAlignment="Left"
                      Margin="5"/>
             
-            <TextBox Grid.Column="1"                     
-                     Width="20"
-                     Height="20"
-                     HorizontalAlignment="Right"
-                     Margin="0,0,25,0"/>
-            
-            <TextBox Grid.Column="1"         
-                     Width="20"
-                     Height="20"
-                     HorizontalAlignment="Right"
-                     Margin="0,0,65,0"/>
+            <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right">
+                <Image Name="MinimizeWindowButton" Height="25" Width="25" MouseDown="MinimizeWindowButton_MouseDown">
+                    <Image.Style>
+                        <Style TargetType="{x:Type Image}">
+                            <Setter Property="Source" Value="Images/MinimizeButtonDisactive.png"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=MinimizeWindowButton}" Value="true">
+                                    <Setter Property="Source" Value="Images/MinimizeButtonActive.png"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Image.Style>
+                </Image>
 
+                <Image Name="CloseWindowButton" Height="25" Width="25" Margin="10" MouseDown="CloseWindowButton_MouseDown">
+                    <Image.Style>
+                        <Style TargetType="{x:Type Image}">
+                            <Setter Property="Source" Value="Images/CloseButtonDisactive.png"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=CloseWindowButton}" Value="true">
+                                    <Setter Property="Source" Value="Images/CloseButtonActive.png"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Image.Style>
+                </Image>
+            </StackPanel>
+            
             <ContentControl Grid.Column="1"
                             Grid.Row="1"
                             Margin="10"

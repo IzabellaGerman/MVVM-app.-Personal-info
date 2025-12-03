@@ -24,5 +24,15 @@ namespace PersonalInfo
         {
             InitializeComponent();
         }
-    }
+
+        private void CloseWindowButton_MouseDown(object sender, MouseButtonEventArgs e)
+            {
+            this.Close();
+            }
+
+        private void MinimizeWindowButton_MouseDown(object sender, MouseButtonEventArgs e)
+            {
+            this.WindowState = WindowState.Minimized;
+            }
+        }
 }
