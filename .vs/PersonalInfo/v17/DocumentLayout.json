@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|c:\\!files\\_c#\\github\\1_personalinfo\\2.0 personalinfo\\personalinfo\\mvvm\\view\\discoveryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|solutionrelative:personalinfo\\mvvm\\view\\discoveryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\personalinfo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|solutionrelative:personalinfo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\personalinfo\\mvvm\\view\\coverletterview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|solutionrelative:personalinfo\\mvvm\\view\\coverletterview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\personalinfo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|solutionrelative:personalinfo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\personalinfo\\mvvm\\view\\discoveryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|solutionrelative:personalinfo\\mvvm\\view\\discoveryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|c:\\!files\\_c#\\github\\1_personalinfo\\2.0 personalinfo\\personalinfo\\mvvm\\view\\discoveryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|solutionrelative:personalinfo\\mvvm\\view\\discoveryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\personalinfo\\theme\\textboxtheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\personalinfo\\mvvm\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|solutionrelative:personalinfo\\mvvm\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\personalinfo\\mvvm\\view\\discoveryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1721ABF1-7031-482A-9009-9A737BC84C02}|PersonalInfo\\PersonalInfo.csproj|solutionrelative:personalinfo\\mvvm\\view\\discoveryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TextBoxTheme.xaml",
               "DocumentMoniker": "C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\PersonalInfo\\Theme\\TextBoxTheme.xaml",
               "RelativeDocumentMoniker": "PersonalInfo\\Theme\\TextBoxTheme.xaml",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\PersonalInfo\\App.xaml",
               "RelativeDocumentMoniker": "PersonalInfo\\App.xaml",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\PersonalInfo\\MVVM\\ViewModel\\MainViewModel.cs",
               "RelativeDocumentMoniker": "PersonalInfo\\MVVM\\ViewModel\\MainViewModel.cs",
@@ -86,18 +86,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HomeView.xaml",
               "DocumentMoniker": "C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\PersonalInfo\\MVVM\\View\\HomeView.xaml",
               "RelativeDocumentMoniker": "PersonalInfo\\MVVM\\View\\HomeView.xaml",
               "ToolTip": "C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\PersonalInfo\\MVVM\\View\\HomeView.xaml",
               "RelativeToolTip": "PersonalInfo\\MVVM\\View\\HomeView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-10T07:00:49.921Z"
+              "WhenOpened": "2024-10-10T07:00:49.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "DiscoveryView.xaml.cs",
               "DocumentMoniker": "C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\PersonalInfo\\MVVM\\View\\DiscoveryView.xaml.cs",
               "RelativeDocumentMoniker": "PersonalInfo\\MVVM\\View\\DiscoveryView.xaml.cs",
@@ -105,11 +106,12 @@
               "RelativeToolTip": "PersonalInfo\\MVVM\\View\\DiscoveryView.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T07:00:49.93Z"
+              "WhenOpened": "2024-10-10T07:00:49.93Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DiscoveryView.xaml",
               "DocumentMoniker": "C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\PersonalInfo\\MVVM\\View\\DiscoveryView.xaml",
               "RelativeDocumentMoniker": "PersonalInfo\\MVVM\\View\\DiscoveryView.xaml",
@@ -128,18 +130,20 @@
               "ToolTip": "C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\PersonalInfo\\MVVM\\View\\CoverLetterView.xaml",
               "RelativeToolTip": "PersonalInfo\\MVVM\\View\\CoverLetterView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-10T07:00:49.931Z"
+              "WhenOpened": "2024-10-10T07:00:49.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\PersonalInfo\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PersonalInfo\\MainWindow.xaml",
               "ToolTip": "C:\\!files\\_C#\\GitHub\\1_PersonalInfo\\2.0 PersonalInfo\\PersonalInfo\\MainWindow.xaml",
               "RelativeToolTip": "PersonalInfo\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-10T07:00:49.931Z"
+              "WhenOpened": "2024-10-10T07:00:49.931Z",
+              "EditorCaption": ""
             }
           ]
         }
