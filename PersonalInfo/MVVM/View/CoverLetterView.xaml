@@ -20,30 +20,24 @@
              Margin="10,10,0,0">
 
                 <Grid>
-                    <TextBlock   Text="   My name is Izabella German.&#x0a;
-    I graduated from the State  Academy of Petrozavodsk, Russia.&#x0a;
-I studied at the Faculty of Physics and Mathematics majoring in &#x0a;
-theoretical physics with an additional specialization in computer &#x0a;
-science. I completed  courses of counting and I worked for several &#x0a;
-years as a developer of an accounting and management accounting &#x0a; 
-    Throughout my professional journey, I have had the &#x0a; 
-opportunity to develop software using the Basic programming &#x0a; 
-language, which has provided me with a solid understanding of &#x0a; 
-programming fundamentals. More recently, I have transitioned into &#x0a; 
-learning and mastering C#, which has opened up new doors for my &#x0a; 
-career and deepened my passion for software development. I am &#x0a; 
-confident that my technical expertise, coupled with my ability to &#x0a; 
-quickly adapt to new programming languages and environments.&#x0a; 
-    I understand the challenges and rewards of switching  &#x0a; 
-careers. I am eager to bring my problem-solving skills, analytical &#x0a; 
-thinking, and dedication to a new field where I can continue to grow &#x0a; 
-and contribute to a team-oriented environment.&#x0a; 
-    I am confident that my background, combined with my enthusiasm &#x0a; 
-for growth and continuous learning, will make me a valuable asset &#x0a; 
-to your team.&#x0a; 
-    Thank you for considering my application. 
-Please feel free to &#x0a; contact me at phone or via email to arrange
-an interview.
+                    <TextBlock   Text="     Izabella German.&#x0a;&#x0a;
+I’m a software engineer with 6+ years of experience in VB, C# and &#x0a;
+SQL, mainly working on enterprise systems in the financial and &#x0a;
+manufacturing domains. In my previous roles, I built automation tools,&#x0a;
+optimized data-driven workflows, and delivered solutions that had &#x0a;
+measurable business impact.&#x0a;&#x0a;
+Recently, I’ve been focusing on modern .NET development, especially &#x0a;
+ASP.NET Core, Web APIs and building hands-on projects to transition &#x0a;
+into a backend-focused role in a modern tech environment. &#x0a;
+I have experience with AI/ML, Claude Code Subagents and Agents &#x0a;
+Teams.&#x0a;&#x0a;
+I’m particularly interested in this position because it combines &#x0a;
+backend development with real product impact, which is exactly &#x0a;
+the direction I want to grow in. I bring strong fundamentals,&#x0a;
+experience working with complex systems, and a practical mindset &#x0a;
+when it comes to building reliable and maintainable software.&#x0a;&#x0a;
+You can find examples of my recent work here:&#x0a;
+GitHub: https://github.com/IzabellaGerman.
 "
                                  Foreground="White"
                                  FontSize="14"                             
@@ -56,16 +50,17 @@ an interview.
 
 
             <Border 
-             Width="180"
-             Height="550"
+             Width="220"
+             Height="600"
              CornerRadius="10"
              HorizontalAlignment="Right"
              VerticalAlignment="Top"
-             Margin="5,10,0,15">
+             Margin="25,10,0,10">
 
                 <Grid>
                     <Grid.RowDefinitions>
-                        <RowDefinition Height="200"/>
+                        <RowDefinition Height="173"/>
+                        <RowDefinition Height="27"/>
                         <RowDefinition Height="30"/>
                         <RowDefinition/>
                     </Grid.RowDefinitions>
@@ -73,14 +68,14 @@ an interview.
                     <Image                    
                      Grid.Row="0" 
                         
-                     HorizontalAlignment="Center"
-                     Source="/Images/MyPhoto.jpeg">
+                     HorizontalAlignment="Left"
+                     Source="/Images/MyPhoto.jpeg" Grid.RowSpan="2">
                         <Image.Style>
                             <Style/>
                         </Image.Style>
                     </Image>
                     <TextBlock
-                        Grid.Row="1"
+                        Grid.Row="2"
                         Foreground="White"
                         FontSize="18"
                         HorizontalAlignment="Center"
@@ -90,29 +85,35 @@ an interview.
 
                     </TextBlock>
                     <TextBlock
-                        Grid.Row="2"
+                        Grid.Row="3"
                         Foreground="White"
                          FontFamily="/Fonts/#Poppins"
                         FontSize="14"
                         Text="
-  C# language &#x0a;
-  .NET platform &#x0a;
-  Design patterns &#x0a;
-  SOLID &#x0a;
-  Data structures &#x0a;
-  MS SQL &#x0a;
-  Git, repositories &#x0a;
-  English lang., C1 level &#x0a;
-  Czech lang., B2 level &#x0a;&#x0a;📧 izzigerman@gmail.com &#x0a;📞 +420 778 117 442 
-">
+  •	C# / .NET  &#x0a;
+  •	VB.NET &#x0a;
+  •	CI/CD  &#x0a;
+  •	ASP.NET &#x0a;
+  •	MS AZURE  &#x0a;
+  •	SQL &#x0a;
+  •	ERP &#x0a;
+  •	GIT &#x0a;
+  •	Languages: English, &#x0a;
+    Czech, Russian   &#x0a;&#x0a;
+  📧 izzigerman@gmail.com &#x0a;
+  📞 +420 778 117 442 &#x0a;
+  LinckedIn:&#x0a;
+  https://www.linkedin.com&#x0a;
+         /in/izabella-german/
+" Margin="0,0,0,-38">
 
                     </TextBlock>
                 </Grid>
-               
+
             </Border>
-            
-               
-           
+
+
+
         </StackPanel>
 
 

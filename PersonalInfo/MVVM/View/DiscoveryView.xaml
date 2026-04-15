@@ -5,7 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:PersonalInfo.MVVM.View"
              mc:Ignorable="d" 
-             d:DesignHeight="780" d:DesignWidth="800"
+             d:DesignHeight="790" d:DesignWidth="800"
              Background="#272537">
     <Grid>
 
@@ -23,40 +23,51 @@
                  FontSize="14"
                  HorizontalAlignment="Left"                                
                  FontFamily="/Fonts/#Poppins" Margin="0,0,0,-16">
-                        Junior C# Developer    📧 izzigerman@gmail.com | 📞 +420 778 117 442 
+                        Software Engineer 
                         <LineBreak />
                         Core skills:<LineBreak /> 
-                        •	C# / .NET Development  • MS SQL / T-SQL  •	Multithreading, Design Patterns  •	Git / Version Control  <LineBreak />  
-                        •	SOLID Principles  •	Languages: English (C1), Czech (B2) •	Data Structures / Algorithms  <LineBreak /><LineBreak />
+                        •	C# / .NET    •	VB.NET •	CI/CD •  MS SQL  •		ERP   •	GIT  <LineBreak />  
+                        •	SOLID Principles  •	ASP.NET •	Languages: English, Czech, Russian  <LineBreak /><LineBreak />
                         Summary 
                         <LineBreak />
-                            Results-driven software developer with over 6 years of experience in application development, database  <LineBreak />
-                         management, and process automation. Skilled in C#, .NET, and SQL with a strong foundation in software  <LineBreak />
-                         design principles (SOLID, design patterns, multithreading). I started my career in enterprise environments, <LineBreak />
-                         building financial and manufacturing automation solutions,and I am now focused on advancing as  <LineBreak />
-                         a C#/.NET developer. With strong analytical skills, international language proficiency (English C1,  <LineBreak />
-                         Czech B2), and hands-on development experience, I bring both technical expertise and adaptability  <LineBreak />
-                         new challenges. <LineBreak /> <LineBreak />
-                        Experience  <LineBreak />
-                         Software Developer | Gazprom Neft | 2015 – 2018
+                           
+                        Results-driven software developer with over 6 years of experience in application development, database <LineBreak />
+                        management, and process automation. 
+                        <LineBreak /> <LineBreak />
+                        Work experience and achievements:  <LineBreak /> <LineBreak />
+                        •2021–2025 Career break (family leave) <LineBreak /> <LineBreak />
+                        
+                        •2015 – 2020 	Gazprom Neft 		Title: Software Engineer
                         <LineBreak />
-                        •	Developed management and financial viability reports for enterprise operations  <LineBreak />
-                        •	Designed and optimized complex SQL queries for large datasets <LineBreak />
-                        •	Supported decision-making processes by building tools to estimate economic effectiveness  <LineBreak />
-                        •	Strengthened expertise in enterprise-level software development and reporting systems. <LineBreak /> <LineBreak />
-                                            Software Developer | Metall-Production | 2014 – 2015  <LineBreak />
-                        •	Built software for manufacturing process automation and product cost calculation  <LineBreak />
-                        •	Developed and maintained reporting systems for production data analysis <LineBreak />
-                        •	Collaborated with business users to implement tools that improved operational efficiency  <LineBreak /> <LineBreak />
-                     Junior Developer  | NeoSystems | 2012 – 2014  <LineBreak />
-                        •	Started career in a small IT-company working on software solutions using Visual Basic and MS SQL  <LineBreak />
-                        •	Gained hands-on experience in software development lifecycle, database management, and client support. <LineBreak />
-                        •	After 2 years of growth, transitioned to larger-scale enterprise projects    <LineBreak /> <LineBreak />
+                        Projects: Financial reporting automation for СEO <LineBreak />
+                        Achievements: Streamlined oil sales contract approval workflow, reducing processing time and increasing <LineBreak />
+                        trade turnover by 5.3%. Built analyst tooling to automate analysis of oil production and refining planning <LineBreak />
+                        for a big ERP system, simplifying data interpretation for business teams. Developed automated financial <LineBreak />
+                        reporting system for CEO-level decision-making, enabling rapid compilation of management reports  — <LineBreak />
+                        recognized with a team award.<LineBreak />
+                        Environment: VB.NET, ASP.NET, CI/CD, ERP, MS Azure, API, SQL, GIT
+
+                    <LineBreak /> <LineBreak />
+                     •	2014 – 2015 	Metall-Production 		Title: Junior Software Engineer <LineBreak />
+                        Projects: expansion of the retail network, cost calculation automatization <LineBreak />
+                        Achievements: Built standalone product pricing system with automated cost accounting module,<LineBreak />
+                        12% improvement in profitability and reducing manual management time by 50%.
+                        Expanded international <LineBreak />
+                        product sales by implementing automated cross-database documentation exchange, driving measurable<LineBreak />
+                        turnover growth.<LineBreak />
+                        Environment: Postgres, Trello, ERP, API, SQL, GIT
+                         <LineBreak /> <LineBreak />
+                        
+                       •	2013 – 2014 	NeoSystems 			Title: Intern
+                            Projects: automatization of finance reporting <LineBreak />
+                            Achievements: Delivered client software solutions in Visual Basic and MS SQL, contributing to full development <LineBreak />
+                        lifecycle projects including requirements analysis, implementation, documentation, and versioning (GIT).<LineBreak />
+                            Environment: VB.NET, Trello, API, SQL, GIT  <LineBreak /> <LineBreak />
+ 
+                        
+                        
                         Education  <LineBreak />
-                    Petrozavodsk State University | 2006 – 2011  <LineBreak />
-                        •	Degree in Physics with additional specialization in Programming  <LineBreak />
-                        •	Coursework included: Basic, C++, PHP/HTML, JavaScript, Prolog, Visual Basic, MS SQL, Pascal.
-                    "
+                    Petrozavodsk State University | 2006 – 2011 | Degree in Physics with add. specialization in Programming  <LineBreak />
                     </TextBlock>
                 </Grid>
 
