@@ -51,7 +51,7 @@ GitHub: https://github.com/IzabellaGerman.
 
             <Border 
              Width="220"
-             Height="600"
+             Height="680"
              CornerRadius="10"
              HorizontalAlignment="Right"
              VerticalAlignment="Top"
@@ -59,17 +59,17 @@ GitHub: https://github.com/IzabellaGerman.
 
                 <Grid>
                     <Grid.RowDefinitions>
-                        <RowDefinition Height="173"/>
-                        <RowDefinition Height="27"/>
+                        <RowDefinition Height="200"/>
                         <RowDefinition Height="30"/>
+                        <RowDefinition Height="35"/>
                         <RowDefinition/>
                     </Grid.RowDefinitions>
 
                     <Image                    
                      Grid.Row="0" 
-                        
+                     Margin="15,5,5,0"  
                      HorizontalAlignment="Left"
-                     Source="/Images/MyPhoto.jpeg" Grid.RowSpan="2">
+                     Source="/Images/MyPhoto2.jpeg" Grid.RowSpan="2">
                         <Image.Style>
                             <Style/>
                         </Image.Style>
@@ -78,8 +78,8 @@ GitHub: https://github.com/IzabellaGerman.
                         Grid.Row="2"
                         Foreground="White"
                         FontSize="18"
-                        HorizontalAlignment="Center"
-                        Margin="0,5,0,0"
+                        HorizontalAlignment="LEft"
+                        Margin="20,5,0,0"
                         Text="Skills &#x0a;"
                          FontFamily="/Fonts/#Poppins">
 

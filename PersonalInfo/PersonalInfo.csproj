@@ -161,5 +161,8 @@
     <Resource Include="Images\CloseButtonDisactive.png" />
     <Resource Include="Images\MinimizeButtonDisactive.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\MyPhoto2.jpeg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
