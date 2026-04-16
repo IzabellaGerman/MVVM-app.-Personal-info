@@ -35,3 +35,4 @@ View resolution is handled through implicit `DataTemplate`s registered in `App.x
 
 1. Open `PersonalInfo.sln` in Visual Studio
 2. Build and run the project (F5)
+
